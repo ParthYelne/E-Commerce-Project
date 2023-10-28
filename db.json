@@ -1,0 +1,90 @@
+{
+  "seller": [
+    {
+      "name": "cathode",
+      "email": "cathode@gmail.com",
+      "password": "cathode123",
+      "id": 1
+    },
+    {
+      "name": "anode",
+      "email": "anode@gmail.com",
+      "password": "anode123",
+      "id": 2
+    },
+    {
+      "name": "Elon Musk",
+      "email": "elon@tesla.com",
+      "password": "Elon@123",
+      "id": 3
+    },
+    {
+      "name": "Bruce Wayne",
+      "email": "bruce@batman.com",
+      "password": "Bruce123",
+      "id": 4
+    },
+    {
+      "name": "darshan",
+      "email": "darshan@gmail.com",
+      "password": "darshan123",
+      "id": 5
+    },
+    {
+      "name": "Elon Musk",
+      "email": "parthyelne773@gmail.com",
+      "password": "parth123",
+      "id": 6
+    },
+    {
+      "name": "Parth Yelne",
+      "email": "parth@gmail.com",
+      "password": "Parth123",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "color": "Grey",
+      "price": "129998",
+      "category": "Electronics",
+      "description": "Most Expensive Android Phone",
+      "image": "https://www.mymobileindia.com/wp-content/uploads/2023/06/24-9.jpg",
+      "id": 2
+    },
+    {
+      "name": "iQoo Z7 Pro",
+      "color": "Black",
+      "price": "22999",
+      "category": "Electronics",
+      "description": "My Phone",
+      "image": "https://www.mymobileindia.com/iqoo-z7-pro-5g-detailed-specifications-features-and-expected-price-leaked/1-2188/",
+      "id": 3
+    },
+    {
+      "name": "iPhone 15 Pro Max",
+      "color": "Natural Titanium",
+      "price": "160000",
+      "category": "Smartphone",
+      "description": "Expensive",
+      "image": "https://www.mymobileindia.com/wp-content/uploads/2023/09/iPhone-15-Pro-Max-1-1.jpg",
+      "id": 4
+    },
+    {
+      "name": "Samsung Refrigerator",
+      "color": "Blue",
+      "price": "100000",
+      "category": "Electronics",
+      "description": "Refrigorator",
+      "image": "https://www.reliancedigital.in/medias/Samsung-RF87A9770SG-Refrigerators-492391820-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NTQ5MXxpbWFnZS9qcGVnfGltYWdlcy9oMmEvaDM5Lzk2NTE2OTU1NTA0OTQuanBnfDQyZmM1OGNhZmJjNWFhMjMxMjAzZTVkMGQ1MjU2ZDdhMWMxOGFhNDFmNDkzMjFkMTQyYzNiYWIzNmVhYzM1ZmE",
+      "id": 5
+    }
+  ]
+}

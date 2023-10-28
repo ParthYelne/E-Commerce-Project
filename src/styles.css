@@ -1,1 +1,47 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import "~../node_modules/bootstrap/dist/css/bootstrap.min.css"; */
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.common-form {
+    text-align: center;
+    display: flex;
+    margin: auto;
+    flex: 1;
+    flex-direction: column;
+    width: 300px;
+}
+
+.form-input {
+    margin-bottom: 20px;
+    height: 35px;
+    color: #5353E2;
+    border: blue 2px solid;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.form-button {
+    height: 35px;
+    border: blue 2px solid;
+    background-color: #5353E2;
+    border-radius: 10px;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.message-p {
+    color: green;
+    text-align: center;
+}
+
+.error-p {
+    color: red;
+    text-align: center;
+}

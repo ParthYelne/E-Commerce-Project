@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
+import { SellerService } from './services/seller.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ecomm-project';
+
+  // constructor(private sellerService: SellerService) {}
+
+  // title = 'ecomm-project';
+
+  // ngOnInit(): void {
+  //   this.sellerService.reloadSeller();
+  // }
 }

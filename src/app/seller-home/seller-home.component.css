@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    margin: 25px;
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+    color: #000;
+    vertical-align: middle;
+}
+
+table th, table td {
+    border: 1px solid #5353E2;
+    padding: 10px;
+    min-height: 160px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+} 
