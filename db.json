@@ -53,10 +53,10 @@
     {
       "name": "Samsung Galaxy S23 Ultra",
       "color": "Grey",
-      "price": "129998",
+      "price": "129999",
       "category": "Electronics",
       "description": "Most Expensive Android Phone",
-      "image": "https://www.mymobileindia.com/wp-content/uploads/2023/06/24-9.jpg",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
       "id": 2
     },
     {
@@ -74,17 +74,62 @@
       "price": "160000",
       "category": "Smartphone",
       "description": "Expensive",
-      "image": "https://www.mymobileindia.com/wp-content/uploads/2023/09/iPhone-15-Pro-Max-1-1.jpg",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-1.jpg",
       "id": 4
     },
     {
-      "name": "Samsung Refrigerator",
+      "name": "Apple MacBook Pro",
+      "color": "Graphite Grey",
+      "price": "149999",
+      "category": "Laptops",
+      "description": "Most Expensive and Most powerful laptop from apple",
+      "image": "https://idestiny.in/wp-content/uploads/2021/10/MacBook_Pro_14-in_Space_Gray_PDP_Image_Position-1__en-IN.jpg",
+      "id": 6
+    },
+    {
+      "name": "Apple iPad",
       "color": "Blue",
-      "price": "100000",
-      "category": "Electronics",
-      "description": "Refrigorator",
-      "image": "https://www.reliancedigital.in/medias/Samsung-RF87A9770SG-Refrigerators-492391820-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w1NTQ5MXxpbWFnZS9qcGVnfGltYWdlcy9oMmEvaDM5Lzk2NTE2OTU1NTA0OTQuanBnfDQyZmM1OGNhZmJjNWFhMjMxMjAzZTVkMGQ1MjU2ZDdhMWMxOGFhNDFmNDkzMjFkMTQyYzNiYWIzNmVhYzM1ZmE",
-      "id": 5
+      "price": "99000",
+      "category": "Tablets",
+      "description": "The latest Tablet from Apple",
+      "image": "https://www.aptronixindia.com/media/catalog/product/cache/31f0162e6f7d821d2237f39577122a8a/i/p/ipad_10th_gen_1_4.png",
+      "id": 7
+    },
+    {
+      "name": "Apple Vision Pro",
+      "color": "Silver",
+      "price": "350000",
+      "category": "VR",
+      "description": "The best VR headset",
+      "image": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/24704605/DSC_0911.jpg",
+      "id": 9
+    },
+    {
+      "name": "Noise ColorFit Pro 4 Alpha",
+      "color": "Brown",
+      "price": "2999",
+      "category": "Smartwatch",
+      "description": "Affordable smartwatch",
+      "image": "https://cdn1.smartprix.com/rx-iYKXux9GE-w420-h420/noise-colorfit-pro-4.webp",
+      "id": 10
+    },
+    {
+      "name": "Sony XM5",
+      "color": "Navy Blue",
+      "price": "25000",
+      "category": "Headphones",
+      "description": "Best Sound Quality",
+      "image": "https://www.trutone.ca/files/image/attachment/28362/ony_WH1000XM5_Wireless_Noice-Cancelling_Over-Ear_Headphones_.png",
+      "id": 11
+    },
+    {
+      "name": "Realme 7",
+      "color": "Light Blue",
+      "price": "18000",
+      "category": "Smartphone",
+      "description": "Adinath's Phone",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/realme/7/4_zu_3_realme_7.jpg",
+      "id": 12
     }
   ]
 }

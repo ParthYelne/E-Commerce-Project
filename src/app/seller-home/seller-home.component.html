@@ -23,17 +23,17 @@
         <td>{{ product.price }}</td>
         <td>{{ product.description }}</td>
         <td>
+          <a routerLink="/seller-update-product/{{ product.id }}"
+            ><fa-icon
+              [icon]="editIcon"
+              style="cursor: pointer; margin-right: 10px"
+            ></fa-icon
+          ></a>
           <fa-icon
             (click)="deleteProduct(product.id)"
             [icon]="icon"
             style="cursor: pointer"
           ></fa-icon>
-          <a routerLink="/seller-update-product/{{ product.id }}"
-            ><fa-icon
-              [icon]="editIcon"
-              style="cursor: pointer; margin-left: 10px"
-            ></fa-icon
-          ></a>
         </td>
       </tr>
     </tbody>

@@ -56,3 +56,17 @@
   height: 34.5px;
   border-left: 0px;
 }
+
+.nav .nav-search .suggested-result {
+  position: absolute;
+  display: list-item;
+  z-index: 10;
+  background-color: #fff;
+  width: 700px;
+  top: 42px;
+  border: 1px solid #ddd; 
+}
+
+.eachItemOfSuggestedResult {
+  border-bottom: 1px solid #ddd;
+}

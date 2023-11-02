@@ -28,12 +28,14 @@ body {
 }
 
 .form-button {
-    height: 35px;
+    height: 40px;
+    width: 100px;
     border: blue 2px solid;
     background-color: #5353E2;
     border-radius: 10px;
     color: #ffffff;
     cursor: pointer;
+    padding: 10px;
 }
 
 .message-p {
@@ -44,4 +46,17 @@ body {
 .error-p {
     color: red;
     text-align: center;
+}
+
+.carousel-caption {
+    background-color: #00000082;
+    border-radius: 10px;
+}
+
+.carousel-control-prev-icon, 
+.carousel-control-next-icon {
+    background-color: #00000082;
+    border-radius: 5px;
+    height: 55px;
+    width: 55px;
 }
